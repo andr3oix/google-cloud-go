@@ -1,5 +1,17 @@
 # Changes
 
+## [1.25.2](https://github.com/googleapis/google-cloud-go/compare/pubsub/v1.25.1...pubsub/v1.25.2) (2022-09-29)
+
+
+### Bug Fixes
+
+* **pubsub:** Remove unused AckResult map ([#6656](https://github.com/googleapis/google-cloud-go/issues/6656)) ([5f69002](https://github.com/googleapis/google-cloud-go/commit/5f690022551ac584e5c66af4324a17d7044a898d))
+
+
+### Documentation
+
+* **pubsub:** Update streams section ([#6682](https://github.com/googleapis/google-cloud-go/issues/6682)) ([7b4e2b4](https://github.com/googleapis/google-cloud-go/commit/7b4e2b412058f965a9f9159231afe551a6f58a74))
+
 ## [1.25.1](https://github.com/googleapis/google-cloud-go/compare/pubsub/v1.25.0...pubsub/v1.25.1) (2022-08-24)
 
 
