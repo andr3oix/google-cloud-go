@@ -1,5 +1,12 @@
 # Changes
 
+## [0.104.1](https://github.com/googleapis/google-cloud-go/compare/v0.104.0...v0.104.1) (2022-09-29)
+
+
+### Bug Fixes
+
+* **internal/gapicgen:** Add slashes to be more strict with matching ([#6672](https://github.com/googleapis/google-cloud-go/issues/6672)) ([721baec](https://github.com/googleapis/google-cloud-go/commit/721baec75f55897f0435fcf5eeb7fc91557b575c))
+
 ## [0.104.0](https://github.com/googleapis/google-cloud-go/compare/v0.103.0...v0.104.0) (2022-08-24)
 
 
