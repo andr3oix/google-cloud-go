@@ -1,5 +1,12 @@
 # Changes
 
+## [1.17.0](https://github.com/googleapis/google-cloud-go/compare/bigtable/v1.16.0...bigtable/v1.17.0) (2022-09-29)
+
+
+### Features
+
+* **bigtable:** Update genproto ([#6710](https://github.com/googleapis/google-cloud-go/issues/6710)) ([34f3aa4](https://github.com/googleapis/google-cloud-go/commit/34f3aa4c36c9a082e4bde1aad6f18951eb48cb51))
+
 ## [1.16.0](https://github.com/googleapis/google-cloud-go/compare/bigtable/v1.15.0...bigtable/v1.16.0) (2022-07-27)
 
 
